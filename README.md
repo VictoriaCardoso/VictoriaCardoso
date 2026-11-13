@@ -57,8 +57,22 @@ Aplicativo multiplataforma com temática do grupo BTS, desenvolvido como projeto
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github.com/VictoriaCardosoChavesLeite/VictoriaCardosoChavesLeite/blob/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha percorrendo minhas contribuições no GitHub"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=VictoriaCardoso&rank_icon=github&show_icons=true&include_all_commits=true&theme=rose"
+    width="48%"
+    align="top"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=VictoriaCardoso&layout=compact&langs_count=4&theme=rose"
+    width="48%"
+    align="top"
+    alt="Linguagens mais utilizadas"
+  />
 </div>
 
+<div align="center">
+  <img src="https://github.com/VictoriaCardosoChavesLeite/VictoriaCardosoChavesLeite/blob/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha percorrendo minhas contribuições no GitHub"/>
+</div>
 ---
 
